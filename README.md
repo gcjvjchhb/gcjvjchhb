@@ -1,6 +1,6 @@
 # Sobre mim **KAUAN**
 ## *I love may pet
--:+: O meu [e-mail](kauan.martins.coelho@escola.pr.gov.br)
+- :+1: O meu [e-mail](kauan.martins.coelho@escola.pr.gov.br)
 -   👋 olà, eu sou @gcjvjchhb**
 - 👀 eu estou interessado em aprender novas linguagens
 - 🌱 Eu estou recentemente aprendendo a programar na linguagem de java script e scratch
